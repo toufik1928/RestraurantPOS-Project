@@ -1,3 +1,4 @@
 # RestraurantPOS-Project
 
-Author- Toufik Beg DYPIMCA
+Author- Toufik Beg <br><br><br>
+DYPIMCA
